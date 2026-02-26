@@ -1,0 +1,137 @@
+[
+  {
+    "id": "c1",
+    "name": "TechFlow Solutions",
+    "description": "Cloud-based workflow automation platform that helps enterprises streamline business processes",
+    "industry": "SaaS",
+    "website": "https://techflow-solutions.com",
+    "founded": 2019,
+    "employees": 120
+  },
+  {
+    "id": "c2",
+    "name": "DataVault Analytics",
+    "description": "Advanced analytics and business intelligence platform for data-driven decision making",
+    "industry": "Analytics",
+    "website": "https://datavault-analytics.com",
+    "founded": 2018,
+    "employees": 85
+  },
+  {
+    "id": "c3",
+    "name": "SecureNet Systems",
+    "description": "Cybersecurity solutions including threat detection, incident response, and compliance management",
+    "industry": "Cybersecurity",
+    "website": "https://securenet-systems.com",
+    "founded": 2017,
+    "employees": 150
+  },
+  {
+    "id": "c4",
+    "name": "CloudMigrate Pro",
+    "description": "Enterprise cloud migration and infrastructure management services",
+    "industry": "Cloud Services",
+    "website": "https://cloudmigrate-pro.com",
+    "founded": 2020,
+    "employees": 45
+  },
+  {
+    "id": "c5",
+    "name": "AILabs Innovation",
+    "description": "Machine learning and artificial intelligence solutions for enterprise applications",
+    "industry": "AI/ML",
+    "website": "https://ailabs-innovation.com",
+    "founded": 2021,
+    "employees": 70
+  },
+  {
+    "id": "c6",
+    "name": "DevOps Hub",
+    "description": "DevOps automation and continuous integration/deployment tools for software teams",
+    "industry": "DevOps",
+    "website": "https://devops-hub.com",
+    "founded": 2019,
+    "employees": 95
+  },
+  {
+    "id": "c7",
+    "name": "BlockChain Ventures",
+    "description": "Blockchain development and cryptocurrency solutions for fintech ecosystem",
+    "industry": "Blockchain",
+    "website": "https://blockchain-ventures.com",
+    "founded": 2018,
+    "employees": 65
+  },
+  {
+    "id": "c8",
+    "name": "HealthTech Innovations",
+    "description": "Healthcare technology platform enabling telemedicine and patient data management",
+    "industry": "HealthTech",
+    "website": "https://healthtech-innovations.com",
+    "founded": 2020,
+    "employees": 110
+  },
+  {
+    "id": "c9",
+    "name": "FintechPro Solutions",
+    "description": "Digital banking and payment processing solutions for financial institutions",
+    "industry": "FinTech",
+    "website": "https://fintechpro-solutions.com",
+    "founded": 2019,
+    "employees": 130
+  },
+  {
+    "id": "c10",
+    "name": "IoT Dynamics",
+    "description": "Internet of Things platform for smart device connectivity and management",
+    "industry": "IoT",
+    "website": "https://iot-dynamics.com",
+    "founded": 2021,
+    "employees": 55
+  },
+  {
+    "id": "c11",
+    "name": "GreenEnergy Tech",
+    "description": "Renewable energy solutions and smart grid technology for sustainable power distribution",
+    "industry": "CleanTech",
+    "website": "https://greenenergy-tech.com",
+    "founded": 2017,
+    "employees": 140
+  },
+  {
+    "id": "c12",
+    "name": "EdTech Forge",
+    "description": "Online learning platform with AI-powered personalized education for students",
+    "industry": "EdTech",
+    "website": "https://edtech-forge.com",
+    "founded": 2020,
+    "employees": 80
+  },
+  {
+    "id": "c13",
+    "name": "RetailAI Connect",
+    "description": "AI-powered retail analytics and customer experience optimization platform",
+    "industry": "Retail Tech",
+    "website": "https://retailai-connect.com",
+    "founded": 2021,
+    "employees": 60
+  },
+  {
+    "id": "c14",
+    "name": "LogisticsFlow",
+    "description": "Supply chain optimization and fleet management solutions for logistics companies",
+    "industry": "Logistics",
+    "website": "https://logisticsflow.com",
+    "founded": 2018,
+    "employees": 105
+  },
+  {
+    "id": "c15",
+    "name": "MarketingAI Pro",
+    "description": "Marketing automation and customer analytics platform powered by machine learning",
+    "industry": "MarTech",
+    "website": "https://marketingai-pro.com",
+    "founded": 2022,
+    "employees": 50
+  }
+]

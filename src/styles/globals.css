@@ -1,0 +1,15 @@
+/* Tailwind CSS Imports */
+@import "tailwindcss";
+
+/* Base styles */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: rgb(249, 250, 251);
+}
